@@ -1,0 +1,32 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/c1/0f/4e/c10f4e64d89f7ed8a9d64110be7eeee2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.main {
+    text-align: center;
+    font-size: larger; 
+    text-shadow: 5px -5px 0px black;
+    
+}
+
+.btn {
+    font-size: larger;
+    padding: 6px 12px;
+    background-color: white;
+    border: none;
+    font-family: inherit;
+    
+}
+
+.underline {
+   border-bottom: 4px solid white;
+}
+
+
+
+
+
